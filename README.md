@@ -21,7 +21,7 @@ Hamsaye has a range of features that make it easy and intuitive for users to nav
 ## 📄 Specifications
 Hamsaye is designed with a range of specifications that ensure a consistent user experience across all pages and features. Here are some of the key specifications:
 
-- **Color Scheme*: Hamsaye uses a warm and welcoming color scheme with shades of purple and white.
+- **Color Scheme**: Hamsaye uses a warm and welcoming color scheme with shades of purple and white.
 - **Typography**: Hamsaye uses a clean and easy-to-read font family that is easy on the eyes.
 - **ayout**: Hamsaye has a responsive layout that is optimized for both desktop and mobile devices.
 - **Icons**: Hamsaye uses a set of custom icons that are designed to be clear and easy to understand.
@@ -38,5 +38,5 @@ Use the design as a template for your own project or contribute to the Hamsaye p
 ## 🤝 Contributing
 If you would like to contribute to the Hamsaye project, we welcome your input! You can contribute in a variety of ways, including submitting bug reports, suggesting new features, or contributing code. To get started, please read our contributing guidelines.
 
-##📝 License
+## 📝 License
 Hamsaye is released under the MIT License. Feel free to use, modify, and distribute the code as needed. We appreciate attribution if you use our code in your own project.
