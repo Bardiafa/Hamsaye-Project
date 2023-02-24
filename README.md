@@ -30,10 +30,10 @@ Hamsaye is designed with a range of specifications that ensure a consistent user
 ## 🚀 Getting Started
 To get started with Hamsaye, you can follow these steps:
 
-Clone the repository to your local machine.
-Open the design file using Figma or another compatible design tool.
-Explore the various pages and features of the design.
-Use the design as a template for your own project or contribute to the Hamsaye project by submitting a pull request.
+1. Clone the repository to your local machine.
+2. Open the design file using Figma or another compatible design tool.
+3. Explore the various pages and features of the design.
+4. Use the design as a template for your own project or contribute to the Hamsaye project by submitting a pull request.
 
 ## 🤝 Contributing
 If you would like to contribute to the Hamsaye project, we welcome your input! You can contribute in a variety of ways, including submitting bug reports, suggesting new features, or contributing code. To get started, please read our contributing guidelines.
