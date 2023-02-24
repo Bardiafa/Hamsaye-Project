@@ -2,11 +2,11 @@
 Welcome to Hamsaye, a user-friendly platform for Iranian homebuyers and renters! Hamsaye is designed to make the process of finding and purchasing or renting a home as easy as possible. This README will provide an overview of the features and specifications of the Hamsaye design.
 
 ## 📋 Table of Contents
-- [Features](Features)
-- [Specifications]
-- [Getting Started]
-- [Contributing]
-- [License]
+- [Features](https://github.com/Bardiafa/Hamsaye-Project/blob/main/README.md#-features)
+- [Specifications](https://github.com/Bardiafa/Hamsaye-Project#-specifications)
+- [Getting Started](https://github.com/Bardiafa/Hamsaye-Project#-getting-started)
+- [Contributing](https://github.com/Bardiafa/Hamsaye-Project#-Contributing)
+- [License](https://github.com/Bardiafa/Hamsaye-Project#-license)
 
 ## 🎨 Features
 Hamsaye has a range of features that make it easy and intuitive for users to navigate and find the information they need. Here are some of the key features:
