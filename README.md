@@ -1,3 +1,5 @@
+![Cover](https://user-images.githubusercontent.com/31126364/221272522-b5b68163-f98e-4078-b5e8-57c54db625f0.png)
+
 # 🏡 Hamsaye
 Welcome to Hamsaye, a user-friendly platform for Iranian homebuyers and renters! Hamsaye is designed to make the process of finding and purchasing or renting a home as easy as possible. This README will provide an overview of the features and specifications of the Hamsaye design.
 
