@@ -8,7 +8,7 @@ Welcome to Hamsaye, a user-friendly platform for Iranian homebuyers and renters!
 - [Contributing](https://github.com/Bardiafa/Hamsaye-Project#-Contributing)
 - [License](https://github.com/Bardiafa/Hamsaye-Project#-license)
 
-### 🎨 Features
+## 🎨 Features
 Hamsaye has a range of features that make it easy and intuitive for users to navigate and find the information they need. Here are some of the key features:
 
 - **Landing Page**: A visually appealing landing page that provides an overview of the platform's features and benefits.
@@ -18,7 +18,7 @@ Hamsaye has a range of features that make it easy and intuitive for users to nav
 - **404 Page**: A custom 404 page that provides a helpful error message and links to other pages.
 - **Ticket Admin**: An easy-to-use ticket admin page that allows users to submit and track support tickets.
 
-### 📄 Specifications
+## 📄 Specifications
 Hamsaye is designed with a range of specifications that ensure a consistent user experience across all pages and features. Here are some of the key specifications:
 
 - **Color Scheme**: Hamsaye uses a warm and welcoming color scheme with shades of purple and white.
