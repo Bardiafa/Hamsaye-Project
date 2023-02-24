@@ -5,8 +5,8 @@ Welcome to Hamsaye, a user-friendly platform for Iranian homebuyers and renters!
 - Features
 - Specifications
 - Getting Started
-- ntributing
-- cense
+- Contributing
+- License
 
 ## 🎨 Features
 Hamsaye has a range of features that make it easy and intuitive for users to navigate and find the information they need. Here are some of the key features:
