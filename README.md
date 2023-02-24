@@ -11,21 +11,21 @@ License
 ## 🎨 Features
 Hamsaye has a range of features that make it easy and intuitive for users to navigate and find the information they need. Here are some of the key features:
 
-**Landing Page**: A visually appealing landing page that provides an overview of the platform's features and benefits.
-**Careers Page**: A dedicated page for job listings and career opportunities.
-**About Us Page**: A page that provides information about the Hamsaye team and their mission.
-**Dashboard**: A user-friendly dashboard that allows users to search for and view available homes for sale or rent, manage their listings, and track their favorites.
-**404 Page**: A custom 404 page that provides a helpful error message and links to other pages.
-**Ticket Admin**: An easy-to-use ticket admin page that allows users to submit and track support tickets.
+- **Landing Page**: A visually appealing landing page that provides an overview of the platform's features and benefits.
+- **Careers Page**: A dedicated page for job listings and career opportunities.
+- **About Us Page**: A page that provides information about the Hamsaye team and their mission.
+- **Dashboard**: A user-friendly dashboard that allows users to search for and view available homes for sale or rent, manage their listings, and track their favorites.
+- **404 Page**: A custom 404 page that provides a helpful error message and links to other pages.
+- **Ticket Admin**: An easy-to-use ticket admin page that allows users to submit and track support tickets.
 
 ## 📄 Specifications
 Hamsaye is designed with a range of specifications that ensure a consistent user experience across all pages and features. Here are some of the key specifications:
 
-**Color Scheme*: Hamsaye uses a warm and welcoming color scheme with shades of purple and white.
-**Typography**: Hamsaye uses a clean and easy-to-read font family that is easy on the eyes.
-**ayout**: Hamsaye has a responsive layout that is optimized for both desktop and mobile devices.
-**Icons**: Hamsaye uses a set of custom icons that are designed to be clear and easy to understand.
-**Images**: Hamsaye uses high-quality images that are relevant to the platform's content and visually appealing.
+- **Color Scheme*: Hamsaye uses a warm and welcoming color scheme with shades of purple and white.
+- **Typography**: Hamsaye uses a clean and easy-to-read font family that is easy on the eyes.
+- **ayout**: Hamsaye has a responsive layout that is optimized for both desktop and mobile devices.
+- **Icons**: Hamsaye uses a set of custom icons that are designed to be clear and easy to understand.
+- **Images**: Hamsaye uses high-quality images that are relevant to the platform's content and visually appealing.
 
 ## 🚀 Getting Started
 To get started with Hamsaye, you can follow these steps:
